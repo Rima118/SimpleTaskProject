@@ -1,0 +1,50 @@
+﻿@using Project.Common.TaskItemModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model TaskModel
+<h2>Task Manager</h2>
+
+<h3>Create Task</h3>
+<form method="post">
+    <label>Title</label><br />
+    <input type="text" asp-for="Title" /><br /><br />
+
+    <label>Description</label>
+    <input type="text" asp-for="Description" /><br /><br />
+
+    <label>IsCompleted</label>
+    <input type="checkbox" asp-for="IsCompleted" /><br /><br />
+
+    <input type="submit" asp-action="Create" value="Create Task" />
+</form>
+<h3>Get All Tasks</h3>
+<form method="get" asp-action="GetAllTasks">
+    <input type="submit" value="Show All Tasks" />
+</form>
+
+<h3>Delete Task</h3>
+<form method="post" asp-action="Delete">
+    <label>Task ID to Delete</label><br />
+    <input type="number" name="id" required /><br /><br />
+
+    <input type="submit" value="Delete Task" />
+</form>
+
+<h3>Update Task</h3>
+<form method="post" asp-action="Update">
+    <label>Task ID</label><br />
+    <input type="number" name="id" required /><br /><br />
+
+    <label>Title</label><br />
+    <input type="text" name="Title" required /><br /><br />
+
+    <label>Description</label><br />
+    <input type="text" name="Description" /><br /><br />
+
+    <label>Is Completed</label>
+    <input type="checkbox" name="IsCompleted" /><br /><br />
+
+    <input type="submit" value="Update Task" />
+</form>

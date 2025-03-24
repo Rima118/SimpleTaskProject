@@ -1,0 +1,17 @@
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\bin\Debug\net8.0\Project.DAL.deps.json
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\bin\Debug\net8.0\Project.DAL.runtimeconfig.json
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\bin\Debug\net8.0\Project.DAL.dll
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\bin\Debug\net8.0\Project.DAL.pdb
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\bin\Debug\net8.0\Project.Common.dll
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\bin\Debug\net8.0\Project.Common.pdb
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\obj\Debug\net8.0\Project.DAL.csproj.AssemblyReference.cache
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\obj\Debug\net8.0\Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\obj\Debug\net8.0\Project.DAL.AssemblyInfoInputs.cache
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\obj\Debug\net8.0\Project.DAL.AssemblyInfo.cs
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\obj\Debug\net8.0\Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\obj\Debug\net8.0\Project..D834B456.Up2Date
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\obj\Debug\net8.0\Project.DAL.dll
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\obj\Debug\net8.0\refint\Project.DAL.dll
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\obj\Debug\net8.0\Project.DAL.pdb
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\obj\Debug\net8.0\Project.DAL.genruntimeconfig.cache
+C:\Users\rimaa\source\repos\SimpleTaskProject\Project.DAL\obj\Debug\net8.0\ref\Project.DAL.dll
